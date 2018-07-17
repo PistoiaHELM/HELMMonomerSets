@@ -1,5 +1,4 @@
-{
-	"monomers": [{
+[{
 		"monomerType": "Backbone",
 		"symbol": "25cholcnC63r",
 		"rgroups": [{
@@ -14900,4 +14899,3 @@
 		"id": 2708,
 		"createDate": "Mon Jul 16 21:34:33 CEST 2018"
 	}]
-}
