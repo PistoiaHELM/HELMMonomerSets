@@ -4999,62 +4999,6 @@
     },
     {
       "monomerType": "Backbone",
-      "symbol": "naP",
-      "rgroups": [
-        {
-          "alternateId": "R1-OH",
-          "id": 0,
-          "label": "R1",
-          "capGroupSMILES": "O[*:1]",
-          "capGroupName": "OH"
-        },
-        {
-          "alternateId": "R2-OH",
-          "id": 0,
-          "label": "R2",
-          "capGroupSMILES": "O[*:2]",
-          "capGroupName": "OH"
-        }
-      ],
-      "molfile": "\n  Mrv1722003281811492D          \n\n  6  4  0  0  0  0            999 V2000\n    0.8250   -1.6500    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0\n    0.8250   -0.8250    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0\n    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8250    0.8250    0.0000 R#  0  0  0  0  0  0  0  0  0  0  0  0\n    1.6500   -0.0000    0.0000 R#  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  1  0  0  0  0\n  3  4  1  0  0  0  0\n  3  5  1  0  0  0  0\n  3  6  2  0  0  0  0\nM  CHG  2   1   1   2  -1\nM  RGP  2   4   1   5   2\nM  END\n",
-      "smiles": "[Na+].[O-]P([OH:1])(OH:2])=O",
-      "author": "Pistoia Alliance",
-      "name": "Sodium Phosphate",
-      "naturalAnalog": "P",
-      "polymerType": "RNA",
-      "id": 196,
-      "createDate": "Tue Jul 31 17:13:57 CEST 2018"
-    },
-    {
-      "monomerType": "Backbone",
-      "symbol": "nasP",
-      "rgroups": [
-        {
-          "alternateId": "R1-OH",
-          "id": 0,
-          "label": "R1",
-          "capGroupSMILES": "O[*:1]",
-          "capGroupName": "OH"
-        },
-        {
-          "alternateId": "R2-OH",
-          "id": 0,
-          "label": "R2",
-          "capGroupSMILES": "O[*:2]",
-          "capGroupName": "OH"
-        }
-      ],
-      "molfile": "\n  Mrv1722003281812022D          \n\n  6  4  0  0  0  0            999 V2000\n    0.8250   -1.6500    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0\n    0.8250   -0.8250    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0\n    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8250    0.8250    0.0000 R#  0  0  0  0  0  0  0  0  0  0  0  0\n    1.6500   -0.0000    0.0000 R#  0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  2  3  1  0  0  0  0\n  3  4  1  0  0  0  0\n  3  5  1  0  0  0  0\n  3  6  2  0  0  0  0\nM  CHG  2   1   1   2  -1\nM  RGP  2   4   1   5   2\nM  END\n",
-      "smiles": "[Na+].[S-]P([OH:1])([OH:2])=O",
-      "author": "Pistoia Alliance",
-      "name": "Sodium Phosporothioate",
-      "naturalAnalog": "P",
-      "polymerType": "RNA",
-      "id": 197,
-      "createDate": "Tue Jul 31 17:13:57 CEST 2018"
-    },
-    {
-      "monomerType": "Backbone",
       "symbol": "pnA",
       "rgroups": [
         {
