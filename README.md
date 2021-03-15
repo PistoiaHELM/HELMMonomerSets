@@ -8,9 +8,11 @@ The recommended JSON schema is stored here. Please help us keep HELM as interope
 
 ### Monomer Sets ###
 
-Currently the HELM demo tools use the monomerLib2.0 library. 
+Currently the HELM demo tools use the monomerLib2.0 library. This contains a limited number of monomers that were originally used internally by Pfizer. 
 
-The monomer.org library is included since it contains some good ideas and is likely to form the basis for a public monomer set. However, be aware that it may be refined in the near future. 
+The monomer.org library was developed by Ionis and is included since it contains a better range of nucleotide monomers. 
+
+Please be aware that work is ongoing to create a HELM approved core set which will be published in 2021. 
 
 
 All monomer sets are available as .json files. JSON is the recommended format. However, we recognise that a SQLlite db version and sd file may be useful, so have included them in the pack. 
