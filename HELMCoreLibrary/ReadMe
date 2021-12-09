@@ -2,5 +2,5 @@ The HELMCoreLibrary was developed by analyising public datasets with particular 
 
 The HELM project recommends that all HELM users adopt HELMCoreLibrary as the core of their monomer sets even if they then add monomers to their own copy. This will increase interoperability of HELM across organisations.
 
-### Updates
+Updates
 Updates are added to the .xlsx file. Other formats will be updated when a new version is released. See history of the .xlsx for full details of changes. 
