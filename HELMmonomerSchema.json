@@ -78,7 +78,7 @@
     },
     "createDate": {
       "description": "Date created.",
-      "type": "string"
+      "type": ["string", "null"]
     }
   },
   "required": [
